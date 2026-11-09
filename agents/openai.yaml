@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文阅读与训练"
+  short_description: "按论文类型适配三遍阅读，支持逐步陪练、证据核对与可复用笔记"
+  default_prompt: "请用 $paper-reading 带我按三遍阅读法练习这篇文献，根据论文类型调整问题，并记录我的疑问与进展。"
